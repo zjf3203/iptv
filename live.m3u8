@@ -1,3 +1,5 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://example.com/sdws.png" group-title="央视",CCTV1-HD
 http://171.38.223.80:8082/tsfile/live/1038_1.m3u8?playlive=1&authid=0
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视",CCTV1-综合HD-备用1
+http://23.237.228.134/live5/CCTV1.m3u8
