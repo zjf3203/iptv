@@ -1,3 +1,3 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="SDTV" tvg-name="CCTV1" tvg-logo="https://example.com/sdws.png" group-title="央视",CCTV1-HD
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://example.com/sdws.png" group-title="央视",CCTV1-HD
 http://171.38.223.80:8082/tsfile/live/1038_1.m3u8?playlive=1&authid=0
